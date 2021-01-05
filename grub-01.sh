@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #----------------------------------------------------------------------
 # Script    : [grub-01.sh]
-# Descrição : Script para instalação do arch linux no modo UEFI
+# Descrição : Script para correção do grub
 # Versão    : 1.0
 # Autor     : Fabio Junior Ribeiro
 # Email     : rib3iro@live.com
